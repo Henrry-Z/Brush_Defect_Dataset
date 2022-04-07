@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Image_20220312092640300.jpg</filename>
+	<path>E:\毕业论文\图片库\Brush2022\JPEGImages\Image_20220312092640300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>79</ymin>
+			<xmax>391</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

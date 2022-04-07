@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>20220312090657650.jpg</filename>
+	<path>E:\&#23011;&#26330;&#31519;&#29825;&#28888;&#26499;\&#37733;&#21095;&#22678;&#25652;&#25580;Brush2022\JPEGImages\Image_20220312090656370.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>223</ymin>
+			<xmax>500</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>20220312092705101.jpg</filename>
+	<path>E:\&#23011;&#26330;&#31519;&#29825;&#28888;&#26499;\&#37733;&#21095;&#22678;&#25652;&#25580;Brush2022\JPEGImages\Image_20220312092704071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>257</ymin>
+			<xmax>328</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
